@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Vazir;
+    src: url('../font/Vazir.ttf');
+}
+@font-face {
+    font-family: VazirBold;
+    src: url('../font/Vazir-Bold.ttf');
+}
+
+*:not(h4){
+    font-family: Vazir;
+}
+.titr{
+    font-family: VazirBold!important;
+}
