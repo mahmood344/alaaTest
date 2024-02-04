@@ -17,6 +17,7 @@
                 </v-card-text>
             </v-card>
         </v-col>
+        
         <v-col class="mx-auto" cols="12" md="9">
                             <v-card rounded="xl">
                                 <v-card-title class="font-weight-bold mt-5">مشخصات فردی</v-card-title>
